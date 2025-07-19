@@ -20,7 +20,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt# This is a basic workflow to help you get started with Actions
 
-name: CI
+
 
 # Controls when the workflow will run
 on:
